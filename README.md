@@ -9,3 +9,7 @@ Learning JavaScript in depth, this repository contains notes and code for the co
 1. https://javascript.info
 2. https://scrimba.com
 
+## Author
+
+[Rishabh Singhal](https://rish-singhal.github.io)
+
