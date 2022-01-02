@@ -7,4 +7,5 @@ Learning JavaScript in depth, this repository contains notes and code for the co
 
 ## Resources
 1. https://javascript.info
+2. https://scrimba.com
 
