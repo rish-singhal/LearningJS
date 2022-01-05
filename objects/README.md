@@ -40,7 +40,7 @@ The object returns `undefined` if `object?.` is used and object is either
 
 ## Symbols
 
-https://javascript.info/symbol
+[https://javascript.info/symbol](https://javascript.info/symbol)
 
 ## Primitive methods & object wrappers
 
@@ -49,5 +49,5 @@ methods, there exist an object wrapper which is created for example `String`
 for `str` and provides the methods to mutate the underlying primitive data 
 type.
 
-https://javascript.info/primitives-methods
+[https://javascript.info/primitives-methods](https://javascript.info/primitives-methods)
 
