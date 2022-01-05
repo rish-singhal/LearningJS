@@ -1,4 +1,1 @@
 # String Data Type
-
-
-
