@@ -48,7 +48,7 @@ first argument is to be parsed in).
 
 ## Math library
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
 Some special mentions
 

@@ -48,4 +48,5 @@ welcome(); // Error: welcome is not defined
 
 ## Resources
 
-https://javascript.info/javascript-special
+[https://javascript.info/javascript-special](https://javascript.info/javascript-special)
+

@@ -1,4 +1,4 @@
-## OR, AND, prompts and alerts
+# OR, AND, prompts and alerts
 
 | **Important Note:** Precedence of `&&` is more than `||`
 
@@ -35,5 +35,6 @@ JavaScript enforces the use of "parantheses" with `&&, || and ??` together.
 whole
 
 ## Resources
-https://javascript.info/nullish-coalescing-operator
+
+[https://javascript.info/nullish-coalescing-operator](https://javascript.info/nullish-coalescing-operator) 
 
