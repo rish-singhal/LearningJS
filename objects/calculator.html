@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <script>
+            function Calculator() {
+              this.read = () => {
+                this.firstNumber = parseInt(prompt("Enter first number: "));
+                this.secondNumber = parseInt(prompt("Enter second number: "));
+              };
+              this.sum = () => this.firstNumber + this.secondNumber;
+              this.mul = () => this.firstNumber * this.secondNumber;
+            }
+            let calculator = new Calculator();
+            calculator.read();
+            alert( "Sum=" + calculator.sum() );
+            alert( "Mul=" + calculator.mul() );
+        </script>
+    </body>
+</html>
+
