@@ -15,7 +15,7 @@ console.log(null || "hello" || undefined) // returns "hello"
 (1 < 0) && alert(x) // this doesn't
 ```
 
-### Nullish Operator
+## Nullish Operator
 
 JavaScript defines an unusual operator `??`, which might be seen in some open source project basically it returns the first argument (from left to right) which is neither `undefined` nor `null`. For example:
 
@@ -30,7 +30,7 @@ console.log(undefined ?? null) // null
 
 JavaScript enforces the use of "parantheses" with `&&, || and ??` together.
 
-## Vocabullory
+## Vocabulory
 1. **Coalescing**: relatively small parts coming together to form a bigger 
 whole
 
