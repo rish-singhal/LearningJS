@@ -69,8 +69,7 @@ For example, the above loop will iterate `[n..0]`.
 Lowercase is always greater than uppercase. This is because characters are 
 internally represented as UTF-16.
 
-## Vocab
+## Vocabulary
 
 Diacritical marks: example `Ö`.
-
 
